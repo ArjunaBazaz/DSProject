@@ -1,0 +1,10 @@
+Ideas: 2022-2023 / 2023-2024 NBA stats
+Ended up using 2021-2022 stats because any newer stats had more gaps in information
+
+Tables:
+    Team
+    Player
+    Game
+    Officials
+    Game-Official
+    Draft
