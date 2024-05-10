@@ -18,7 +18,7 @@ Contains information on the 2021-2022 NBA season, has information on games playe
 
 Data Sources: nba.sqlite and csv folder is from the nba database on Kaggle.
 all_seasons.csv is also from Kaggle. draft information is generated from an api call
-to the NBA stats website. nba.sqlite exceeds GitHub's file size limit, so a link is provided: https://www.kaggle.com/datasets/wyattowalsh/basketball
+to the NBA stats website. nba.sqlite and csv folder exceed GitHub's file size limit, so a link is provided: https://www.kaggle.com/datasets/wyattowalsh/basketball
 
 Data is loaded into nbadatabase.sqlite
 
